@@ -1,9 +1,6 @@
 
 # MyProject
 
-[![Build Status](https://img.shields.io/travis/myusername/myproject.svg)](https://travis-ci.org/myusername/myproject)
-[![Coverage Status](https://coveralls.io/repos/github/myusername/myproject/badge.svg?branch=main)](https://coveralls.io/github/myusername/myproject?branch=main)
-
 ## Description
 
 A brief description of what your project does and its purpose.
